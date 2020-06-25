@@ -3,7 +3,7 @@
 
 The following is a set of guidelines for contributing to This Repo, These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
-The maintainer of the project is Thuvarakan [Tharmarajasingam](https://github.com/Thuva4).
+The maintainer of the project is [Thuvarakan](https://github.com/Thuva4).
 
 #### Table Of Contents
 Open-Source Within Community.  Maintainer merges pull-requests, fixes critical bugs.
@@ -25,23 +25,23 @@ Unfortunately, sometimes the bug can be only reproduced in your project or in yo
 
 1. Fork this repository.
 
-2. Check the table in the README.md file to see if the algorithm has already been added. If not, add a new row with the name of algorithm and create a new folder with a name of the algorithm.
+2. Check the table in the README.md file to see if the language and algorithms have already been added. If not, create a new folder with a name of the language. Inside the folder create the folder for Algorithm you want to share and add your code.
 
-3. Inside the folder create the folder for language you want to share and add your code.
+3. Run the following command to generate the readme. (Special Thanks to [p-avital](https://github.com/p-avital))
+	```
+		pip install -r requirements.txt
+		python readme_generator.py
+	```
 
-4. Commit
+5. Add your name into the contributors list in CONTRIBUTING.md file
 
-5. Update the README.md. Check the language you have used in the table (check emoji is ``:+1:`` )
+6. Commit, Push
 
-6. Add your name into the contributors list in CONTRIBUTING.md file
+7. Make a pull request
 
-7. Commit, Push
+8. Star The Repository
 
-8. Make a pull request
-
-9. Star The Repository
-
-10. Happy Hacktoberfest
+9. Happy Hacktoberfest
 
 
 *******
@@ -49,6 +49,7 @@ Unfortunately, sometimes the bug can be only reproduced in your project or in yo
 	Thanks to everyone for contributing to the repo.
 
 - [Thuvarakan](https://github.com/Thuva4)
+- [christianbender](https://github.com/christianbender)
 - [octamois](https://github.com/octamois)
 - [abdatta](https://github.com/abdatta)
 - [Astrophilic](https://github.com/Astrophilic)
@@ -77,7 +78,7 @@ Unfortunately, sometimes the bug can be only reproduced in your project or in yo
 - [causztic](https://github.com/causztic)
 - [ranjanbinwani](https://github.com/ranjanbinwani)
 - [buihaduong](https://github.com/buihaduong)
-- [Texla](https://github.com/Texla)
+-- [Texla](https://github.com/Texla)
 - [prateekpandey14](https://github.com/prateekpandey14)
 - [riktimmondal](https://github.com/riktimmondal)
 - [C2P1](https://github.com/C2P1)
@@ -129,3 +130,55 @@ Unfortunately, sometimes the bug can be only reproduced in your project or in yo
 - [mekisiel](https://github.com/mekisiel)
 - [tushar-dtu](https://github.com/tushar-dtu)
 - [AymanASamyM](https://github.com/AymanASamyM)
+- [nicktheway](https://github.com/nicktheway)
+- [arunpyasi](https://github.com/arunpyasi)
+- [Akos Kovacs](https://github.com/plaidshirtakos)
+- [AtoMc](https://github.com/AtoMc)
+- [robertmihai26](https://github.com/robertmihai26)
+- [Gowtham R](https://github.com/gowtham1997)
+- [SrGrace](https://github.com/SrGrace)
+- [d-grossman](https://github.com/d-grossman)
+- [javmonisu](https://github.com/javmonisu)
+- [Nikita](https://github.com/j07nikita)
+- [PlatanoBailando](https://github.com/PlatanoBailando)
+- [lena15n](https://github.com/lena15n)
+- [stripedpajamas](https://github.com/stripedpajamas)
+- [Renan Vichetti](https://github.com/rvconessa)
+- [pranjalrai](https://github.com/pranjalrai)
+- [stuxxnet](https://github.com/stuxxnet42)
+- [BurnzZ](https://github.com/BurnzZ)
+- [FernandaOchoa](https://github.com/FernandaOchoa)
+- [npcoder2k14](https://github.com/npcoder2k14)
+- [Jaernbrand](https://github.com/Jaernbrand)
+- [DiegoVicen](https://github.com/DiegoVicen)
+- [Ashwin-Kapes](https://github.com/Ashwin-Kapes)
+- [Santhosh Kumar](https://github.com/santhoshsamy29)
+- [Judar Lima](https://github.com/judarlima)
+- [Jhalaa](https://github.com/jhalaa)
+- [Maaz Qureshi](https://github.com/maazsq)
+- [Utkarsh](https://github.com/utkarshmani1997)
+- [langlk](https://github.com/langlk)
+- [Anat Portnoy](https://github.com/Anat-Port)
+- [Leandro Nunes - lnfnunes](https://github.com/lnfnunes)
+- [syam3526](https://github.com/syam3526)
+- [churrizo](https://github.com/churrizo)
+- [Aniket Joshi](https://github.com/aniket7joshi)
+- [kuldeepdadhich](https://github.com/kuldeepdadhich)
+- [HimanshuAwasthi95](https://github.com/HimanshuAwasthi95)
+- [Shaon](https://github.com/me-shaon)
+- [Chinmay Chandak](https://github.com/CCAtAlvis)
+- [Suman Chaurasia](https://github.com/bzero0)
+- [Patrick Fischer](https://github.com/patFish)
+- [ServinDC](https://github.com/ServinDC)
+- [Piersdb](https://github.com/piersdb)
+- [Irshad Ismayil](https://github.com/irshadshalu)
+- [BrianChen](https://github.com/brianchen)
+- [S Ramakrishnan](https://github.com/sramakrishnan247)
+- [Atalanttore](https://github.com/Atalanttore)
+- [Anto26](https://github.com/Anto26)
+- [p-avital](https://github.com/p-avital)
+- [neddstarkk](https://github.com/neddstarkk)
+- [h3r0complex](https://github.com/h3r0complex)
+- [vzsky](https://github.com/vzsky)
+- [raphaelmeyer](https://github.com/raphaelmeyer)
+- [jonasbn](https://github.com/jonasbn)
